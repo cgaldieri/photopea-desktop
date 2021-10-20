@@ -1,0 +1,27 @@
+{
+  "name": "photopea-desktop",
+  "version": "1.0.0",
+  "description": "The online photo editor on your desktop! (requires internet connection!)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgaldieri/photopea-desktop.git"
+  },
+  "keywords": [
+    "photopea",
+    "photo",
+    "photo",
+    "editing",
+    "desktop"
+  ],
+  "author": "cgaldieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgaldieri/photopea-desktop/issues"
+  },
+  "homepage": "https://github.com/cgaldieri/photopea-desktop#readme"
+}
