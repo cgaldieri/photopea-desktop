@@ -16,3 +16,10 @@ app.on('ready', () => {
         mainWindow = null;
     });
 });
+
+// Hide the toolbar and the menu bar
+app.on('ready', () => {
+    mainWindow.setMenu(null);
+    mainWindow.setAutoHideMenuBar(true);
+}
+);
